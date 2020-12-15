@@ -1,6 +1,6 @@
-import React, { Component } from 'react';
+import React, { Component } from "react";
 
-import Blog from './containers/Blog/Blog';
+import Blog from "./containers/Blog/Blog";
 
 class App extends Component {
   render() {
@@ -13,4 +13,3 @@ class App extends Component {
 }
 
 export default App;
-
